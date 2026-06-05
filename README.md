@@ -24,7 +24,7 @@ Supports webcam and video file input with live FPS display, motion trails, and s
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_ObjectDetectionTracking.git
+git clone https://github.com/Naveen4900/CodeAlpha_Object_Detection_Tracking.git
 cd CodeAlpha_ObjectDetectionTracking
 python3 -m venv venv
 source venv/bin/activate
